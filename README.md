@@ -1,16 +1,18 @@
 # LearnWeb3.io - First dApp Tutorial
 > [!IMPORTANT]
 > Create a simple frontend website that can interact with a smart contract you build
-> Tools used: Node.js, VS Code, Remix IDE, Viem, Metamask github
-> Code used: HTML, CSS, JS, Solidity
+- Tools used: Node.js, VS Code, Remix IDE, Viem, Metamask github
+- Code used: HTML, CSS, JS, Solidity
 
 > [!NOTE]
-> Added testnet currency to wallet
-> Setup a lite-server from node.js
-> built a simple webpage
-> built a simple smart contract with two main functions
-> Integrated the contract into the webpage (establish a connection to the testnet, connect a user's wallet, sign a transaction to update a value in the smart contract) 
-> complied solidity code and deployed it on the testnet
+> learning outcomes
+
+- Added testnet currency to wallet
+- Setup a lite-server from node.js
+- built a simple webpage
+- built a simple smart contract with two main functions
+- Integrated the contract into the webpage (establish a connection to the testnet, connect a user's wallet, sign a transaction to update a value in the smart contract)
+- complied solidity code and deployed it on the testnet
 
  ## Other Information 
 - Tutorial followed here https://learnweb3.io/degrees/ethereum-developer-degree/freshman/build-your-first-d-app-on-ethereum/
